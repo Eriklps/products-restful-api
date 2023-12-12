@@ -10,6 +10,6 @@ RESTful API using Spring Boot, Spring Framework and Java 17. Following the [Rich
 - [Spring Web MVC](https://docs.spring.io/spring-framework/reference/web/webmvc.html)
 - [Spring HATEOAS](https://spring.io/projects/spring-hateoas)
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
-- [PgAdmin (Postgres)](https://www.postgresql.org/)
+- [PgAdmin (PostgreSQL)](https://www.postgresql.org/)
 
 Project implemented for study purposes, following the instructions in this [video](https://www.youtube.com/watch?v=wlYvA2b1BWI).
